@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
+gem 'pkg-config'
 gem 'rspec'
 gem 'selenium-webdriver'
 gem 'capybara'
-
-gem install allure-rspec
+gem 'allure-rspec'
